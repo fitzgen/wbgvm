@@ -1,7 +1,3 @@
-mod codegen;
-mod frontend;
-mod ir;
-
 #[cfg(test)]
 mod tests {
     #[test]

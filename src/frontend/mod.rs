@@ -1,6 +1,5 @@
-mod codegen;
-mod frontend;
-mod ir;
+mod typescript;
+mod webidl;
 
 #[cfg(test)]
 mod tests {
